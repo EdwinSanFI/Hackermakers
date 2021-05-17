@@ -1,0 +1,23 @@
+#ifndef PLAYER
+#define PLAYER_H
+
+
+class Player
+{
+    public:
+        Player();
+
+        void CallInput();
+        void ResetToSafePosition();
+
+        int x, y;
+
+        int lastX, lastY;
+
+    protected:
+
+
+    private:
+};
+
+#endif // PLAYER_H
