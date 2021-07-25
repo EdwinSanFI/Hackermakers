@@ -1,2 +1,2 @@
 # Programacion
-Repositorio con proyectos de diversos lenguajes como C++, Python, Java
+Repository with various projects in programming languages in C++, Python and Java.
