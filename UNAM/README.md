@@ -65,4 +65,4 @@ Design Patterns: Singleton, Factory, Builder, Prototype, Adapter, Decorator, Fac
 
 
 ## Fourth Semester
-### It will started in August 2022
+### It will start in August 2022
