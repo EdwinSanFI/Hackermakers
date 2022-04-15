@@ -1,3 +1,5 @@
+# I didnt check this code
+
 def palindromeIndex(s):
     arreglo = {}
     arreglo2 = []

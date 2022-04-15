@@ -1,3 +1,5 @@
+# I didnt check this code
+
 def run(j,n, a,b):
     happines = 0
     j =j.split(' ')

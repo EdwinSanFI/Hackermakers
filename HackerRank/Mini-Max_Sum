@@ -1,0 +1,27 @@
+def miniMaxSum(arr):
+    arr.sort()
+    minn = 0
+    maxx = 0
+    for i in range(0,len(arr)-1):
+        minn += arr[i]
+
+    for i in range(1, len(arr)):
+        maxx+=arr[i]
+
+    print(minn,maxx)
+
+if __name__ == '__main__':
+    test3 = [140638725, 436257910, 953274816, 734065819, 362748590]
+
+    # Expected output:
+    # 1673711044 2486347135
+
+    # test5 = [156873294, 719583602, 581240736, 605827319, 895647130]
+    # Expected output:
+    # 2063524951 2802298787
+
+    # test11 = [140537896, 243908675, 670291834, 923018467, 520718469]
+    # Expected output:
+    # 1575456874 2357937445
+
+    miniMaxSum(test3)
