@@ -8,15 +8,15 @@ I hope you enjoy my projects.
 
 ## 💻 There are five folders:
 <!-- I could add the logos -->
-- [Hackmakers] (https://www.hackmakers.com): Projects I have participated in the Hackathons of Hackmakers.
+- [Hackmakers](https://www.hackmakers.com): Projects I have participated in the Hackathons of Hackmakers.
 
-- [HackerRank] (https://www.hackerrank.com): Programms I have done in HackerRank.
+- [HackerRank](https://www.hackerrank.com): Programms I have done in HackerRank.
 
-- [Platzi] (https://platzi.com/home): Projects I have done in the Platzi courses.
+- [Platzi](https://platzi.com/home): Projects I have done in the Platzi courses.
 
-- [UNAM] (https://www.unam.mx): Projects I have done in my univesity on these 2 years.
+- [UNAM](https://www.unam.mx): Projects I have done in my univesity on these 2 years.
 
-- [VQGAN] (https://colab.research.google.com/drive/1go6YwMFe5MX6XM9tv-cnQiSTU50N9EeT#scrollTo=ZdlpRFL8UAlW): Images I have done in VQGAN.
+- [VQGAN](https://colab.research.google.com/drive/1go6YwMFe5MX6XM9tv-cnQiSTU50N9EeT#scrollTo=ZdlpRFL8UAlW): Images I have done in VQGAN.
 
 
 ## 🛠 Languages Programming
