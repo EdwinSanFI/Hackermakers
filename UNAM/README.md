@@ -14,14 +14,14 @@ projects.
 
 <!-- Primer semestre -->
 ## First Semester
-### Subject: Programming Fundamentals
-#### Project: Ponit of sale system on C++
+#### Subject: Programming Fundamentals
+##### Project: Ponit of sale system on C++
 Temary:
 Fundamentals of programming in C++
 
 <!-- Segundo semestre -->
 ## Second Semester
-### Subject: Data Structures and Algorithms I on C
+#### Subject: Data Structures and Algorithms I on C
 Temary:
 Data Structures: Arrays, Linked Lists, Stacks, Queues, Divided and Conquer
 Algorithms: Recursion
@@ -31,7 +31,7 @@ Top-down and Bottom-up: Top-down and Bottom-up
 Analysis of Algorithms: Big-O notation, Analysis of Algorithms, Complexity Analysis
 
 ## Third Semester
-### Subject: Data Structures and Algorithms II on Python
+#### Subject: Data Structures and Algorithms II on Python
 Temary:
 Data Structures:Trees, Graphs, Heaps, Hash Tables
 Algorithms: Sorting, Searching, DFS, BFS, Dynamic Programming, Greedy Algorithms, Dictionary
@@ -53,8 +53,8 @@ Files: Reading and Writing Files
 Parallel Programming: Desing and Implementation
 
 
-### Subject: Object Oriented Programming on Java
-#### Project 1: Inscription System
+#### Subject: Object Oriented Programming on Java
+##### Project 1: Inscription System
 Temary:
 OOP: Classes, Objects, Inheritance, Polymorphism, Encapsulation, Abstraction, Constructors, Cohesion, Hierarchy
 UML: Use Case Diagram, Class Diagram, Sequence Diagram, State Diagram, Activity Diagram
@@ -65,4 +65,4 @@ Design Patterns: Singleton, Factory, Builder, Prototype, Adapter, Decorator, Fac
 
 
 ## Fourth Semester
-### It will start in August 2022
+#### It will start in August 2022
