@@ -1,4 +1,7 @@
 # Hackerrank
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/6312342/163525344-a1d3d7b8-f8fb-49c6-bce3-cd37d377c2b3.png" height="180px" alt="Hackerrank logo">
+</p>
 
 These are the programms I have done in Hackerrank.
 
