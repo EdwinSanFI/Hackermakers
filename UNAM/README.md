@@ -25,7 +25,7 @@ Temary:
     Fundamentals of programming in C++
 
 <!-- Segundo semestre -->
-## 🔴 Second Semester
+## 🔴 [Second Semester](./Second%20Semester)
 #### 🟩 Subject: Data Structures and Algorithms I on C
 Temary:
 
@@ -41,8 +41,8 @@ Temary:
 
     Analysis of Algorithms: Big-O notation, Analysis of Algorithms, Complexity Analysis
 
-## 🔴 Third Semester
-#### 🟩 Subject: Data Structures and Algorithms II on Python
+## 🔴 [Third Semester](./Third%20Semester)
+#### 🟩 Subject: [Data Structures and Algorithms II on Python](./Third%20Semester/Data%20Structures%20and%20Algorithms%20II/)
 Temary:
 
     Data Structures:Trees, Graphs, Heaps, Hash Tables
@@ -70,7 +70,7 @@ Temary:
     Parallel Programming: Desing and Implementation
 
 
-#### 🟩 Subject: Object Oriented Programming on Java
+#### 🟩 Subject: [Object Oriented Programming on Java](./Third%20Semester/Oriented%20Object%20Programming/)
 ##### Project 1: Inscription System
 Temary:
 
@@ -87,5 +87,5 @@ Temary:
     Design Patterns: Singleton, Factory, Builder, Prototype, Adapter, Decorator, Facade, Proxy, etc.
 
 
-## 🔴 Fourth Semester
+## 🔴 [Fourth Semester](./Fourth%20Semester)
 #### It will start in August 2022
