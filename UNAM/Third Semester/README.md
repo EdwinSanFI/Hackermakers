@@ -30,10 +30,15 @@ Temary:
 ### Project 1: Inscription System
 Temary:
     OOP: Classes, Objects, Inheritance, Polymorphism, Encapsulation, Abstraction, Constructors, Cohesion, Hierarchy
+
     UML: Use Case Diagram, Class Diagram, Sequence Diagram, State Diagram, Activity Diagram
+
     Castings: Casting, Boxing, Unboxing
+
     Try-Catch: Try-Catch
+
     Threads: Threads, Synchronization, Deadlocks
+    
     Design Patterns: Singleton, Factory, Builder, Prototype, Adapter, Decorator, Facade, Proxy, etc.
 
 ### The programs will be in English and Spanish soon.
