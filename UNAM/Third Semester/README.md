@@ -1,5 +1,5 @@
 # 🔴 Third Semester
-## Subject: Data Structures and Algorithms II on Python
+## 🟩 Subject: Data Structures and Algorithms II on Python
 Temary:
 Data Structures:Trees, Graphs, Heaps, Hash Tables
 Algorithms: Sorting, Searching, DFS, BFS, Dynamic Programming, Greedy Algorithms, Dictionary
@@ -21,7 +21,7 @@ Files: Reading and Writing Files
 Parallel Programming: Desing and Implementation
 
 
-## Subject: Object Oriented Programming on Java
+## 🟩 Subject: Object Oriented Programming on Java
 ### Project 1: Inscription System
 Temary:
 OOP: Classes, Objects, Inheritance, Polymorphism, Encapsulation, Abstraction, Constructors, Cohesion, Hierarchy

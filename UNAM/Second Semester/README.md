@@ -1,5 +1,5 @@
 # 🔴 Second Semester
-## Subject: Data Structures and Algorithms I on C
+## 🟩 Subject: Data Structures and Algorithms I on C
 Temary: Data Structures: Arrays, Linked Lists, Stacks, Queues, Divided and Conquer
 Algorithms: Recursion
 Pointers: Pointers, Dynamic Memory Allocation

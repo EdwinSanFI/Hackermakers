@@ -17,13 +17,13 @@ have a good understanding of the concepts of programming and to be able to apply
 
 <!-- Primer semestre -->
 ## 🔴 First Semester
-#### Subject: Programming Fundamentals
+#### 🟩 Subject: Programming Fundamentals
 Project: Ponit of sale system on C++
 Temary: Fundamentals of programming in C++
 
 <!-- Segundo semestre -->
 ## 🔴 Second Semester
-#### Subject: Data Structures and Algorithms I on C
+#### 🟩 Subject: Data Structures and Algorithms I on C
 Temary:
 
 Data Structures: Arrays, Linked Lists, Stacks, Queues, Divided and Conquer
@@ -39,7 +39,7 @@ Top-down and Bottom-up
 Analysis of Algorithms: Big-O notation, Analysis of Algorithms, Complexity Analysis
 
 ## 🔴 Third Semester
-#### Subject: Data Structures and Algorithms II on Python
+#### 🟩 Subject: Data Structures and Algorithms II on Python
 Temary:
 
 Data Structures:Trees, Graphs, Heaps, Hash Tables
@@ -67,7 +67,7 @@ Files: Reading and Writing Files
 Parallel Programming: Desing and Implementation
 
 
-#### Subject: Object Oriented Programming on Java
+#### 🟩 Subject: Object Oriented Programming on Java
 ##### Project 1: Inscription System
 Temary:
 

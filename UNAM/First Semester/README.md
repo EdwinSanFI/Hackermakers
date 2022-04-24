@@ -1,5 +1,5 @@
 # 🔴 First Semester
-## Subject: Programming Fundamentals
+## 🟩 Subject: Programming Fundamentals
 Project: Ponit of sale system on C++
 Temary: Fundamentals of programming in C++
 
