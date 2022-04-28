@@ -1,5 +1,5 @@
 ## [Practice 0](./Practice%200/) - Fibonacci
-## [Practice 1](./Practice%201/)) - Sorting Algorithms Part I
+## [Practice 1](./Practice%201/) - Sorting Algorithms Part I
 ## [Practice 2](./Practice%202/) - Sorting Algorithms Part II
 ## [Practice 3](./Practice%203/) - Sorting Algorithms Part III
 ## [Practice 4](./Practice%204/) - Searching Algorithms Part I
