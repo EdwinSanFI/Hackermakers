@@ -1,71 +1,81 @@
 ##################################
 # @author: Edwin Santiago
-# Se implementan 2 algoritmos (QuickSort y HeapSort)
-# Con una lista de 10 números aleatorios del 0 al 10
-# Y se mide el tiempo que tarda cada algoritmo
+# QuickSort y HeapSort
+# We are going to measure the time it takes to sort the list using QuickSort and HeapSort
 ##################################
 
-# Se importa de la libreria "time" la funcion "perf_counter"
-# para calcular el tiempo que tardan en ordenar cada algoritmo
+# The function ranint is used to generate a random number
 from random import randint
+# The function "perf_counter" is use to measure the time of the algorithm
 from time import perf_counter
 
-# Algoritmo: Quick Sort
-# Recibe como parametro la lsita de numeros, el indice del primer elemento de la lista y el tamaño de la lista
+# Algorithm: Quick Sort
+# Recieves as parameter the list and the first and last index
 def quickSort(a, p, r):
-    # Revisa que la lsita tenga más de 1 elemento
+    # Check if the list has more than 1 element
     if p < r:
-        # Divide la lista y nos da la posicion del pivote
-        q = patrocinar(a,p,r)
-        # Subarreglo de la parte izquierda
+        # Divide the list and give the position of the pivot
+        q = divide(a,p,r)
+        # Subarray of the left part
         quickSort(a, p, q-1)
-        # Subarreglo de la parte derecha
+        # Subarray of the right part
         quickSort(a,q+1, r)
 
-# La funcion reacomoda los subarreglos donde ambas partes (izq y der) esten acomoaddos conforme al pivote
-# Recibe como parametro la lista de numeros, el indice del primer elemento y el tamaño de la lista
-def patrocinar(a, p, r):
-    # Para evitar que el algoritmo caiga en el peor de los casos se escoge un pivote al azar
+# The function accommodates the subarrays where both parts (left and right) are arranged according to the pivot
+# Receives as parameter the list of numbers, the index of the first element and the size of the list
+def divide(a, p, r):
+    # Choose a random pivot
     rand = randint(p,r)
-    # Y se intercambia de valor con el ultimo elemento
-    # Con esto, se optimiza el algoritmo y puede ordenar listas hasta de 20k elementos
+    # And exchange the value of the pivot with the last element
+    # This will optimize the algorithm and can sort lists up to 20k elements
     a[rand], a[r] = a[r], a[rand]
-    # Es el elemento pivote (ultimo elemento aunque puede variar)
+    # The pivot is the last element of the list
     x=a[r]
-    # Indice auxuliar
+    # Auxiliary variable
     i = p-1
 
 
-    # Compara todos los elementos para saber cuales son menores y mayores que el pivote
+    # Compare all the elements to know which are less and greater than the pivot
     for j in range(p,r):
-        # Intercambia el valor para que quede del lado izquierdo del arreglo los menores o iguales al pivote
+        # If the element is less than the pivot, it is exchanged with the element in the left part
         if a[j] <= x:
             i+= 1
             a[i], a[j] = a[j], a[i]
 
-    # El pivote cambia de posicion para marcar la division de menores y mayores a el
+    # Exchange the pivot with the element in the left part
     a[i+1], a[r] = a[r], a[i+1]
-    # Retorna la posicion final del pivote.
+    # Return the index of the pivot
     return i+1
 
-# Algoritmo: Heap Sort
-# Recibe como parametro el arreglo de numeros
+# Algorithm: Heap Sort
+# Recieves as parameter the list
 def ordenacionHeapSort(a):
-    construirHeapMaxIni(a)
-    # Guarda el numero de elementos del arreglo
+    initialHeap(a)
+    # The size of the heap is the size of the list
     tamañoHeap = len(a)
+    # The main loop of the algorithm. It is used to swap the first element with the last element of
+    # the list.
     for i in range(len(a)-1,0,-1):
         a[0], a[i] = a[i], a[0]
         tamañoHeap -=1
         maxHeapify(a,0,tamañoHeap)
 
-# Construye el heap inicial de forma que sea un HeapMaixmo
-def construirHeapMaxIni(A):
+# Initial heap is a MaxHeap
+def initial_heap(A):
+    # Creating a max heap.
     tamañoHeap = len(A)
     for i in range(len(A) // 2, -1, -1):
         maxHeapify (A, i, tamañoHeap)
 
 def maxHeapify(A, i, tamañoHeap):
+    """
+    The function maxHeapify takes an array A and an index i into the array, and performs the
+    "maxHeapify" operation on the subtree rooted at index i
+    :param A: The array to be sorted
+    :param i: The index of the node to be heapified
+    :param oHeap: The array that represents the heap
+    """
+    
     L = 2*i +1
     R = 2*i+2
 
