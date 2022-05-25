@@ -1,3 +1,5 @@
+![OOP](https://user-images.githubusercontent.com/6312342/170312686-61c9351b-59d7-4985-8d75-972da660996b.png)
+
 ## [Practice 1](./Practice%201/) - Programming Language
 ## [Practice 2](./Practice%202/) - Fundamentals of Programming
 ## [Practice 3](./Practice%203/) - Classes and utilities
