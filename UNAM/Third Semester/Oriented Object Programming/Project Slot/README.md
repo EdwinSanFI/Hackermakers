@@ -1,5 +1,8 @@
 # THE PROJECT IS ON MAINTENANCE AND WILL BE UPDATED SOON
 
+![Slot](https://user-images.githubusercontent.com/6312342/170311333-cc499e49-d6ae-441f-8fc9-b997a683968c.png)
+
+
 # SLOT using OOP on JAVA
 ##
 
