@@ -1,3 +1,6 @@
+![DSA](https://user-images.githubusercontent.com/6312342/170312245-ccb3c26e-4d1b-4cf4-8ca4-8b0cb91d9511.png)
+
+
 ## [Practice 0](./Practice%200/) - Fibonacci
 ## [Practice 1](./Practice%201/) - Sorting Algorithms Part I
 ## [Practice 2](./Practice%202/) - Sorting Algorithms Part II
