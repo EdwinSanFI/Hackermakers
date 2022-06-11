@@ -1,8 +1,0 @@
-Este es un documento con 4 lineas
-Para realizar una prueba para la práctica 10
-Para utilizar el bloque try-catch
-Materias reprobadas:
-POO
-EDA II
-
-Ayuda

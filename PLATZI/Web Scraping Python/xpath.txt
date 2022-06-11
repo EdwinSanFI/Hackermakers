@@ -1,4 +1,0 @@
-Links = //h2[@class="headline"]/a/@href
-Título = //div[@class="wrap-info"]/h1/text()
-Resumen = //div[@class="lead"]/p/text()
-Cuerpo = //div[@class="news"]/p[not(@class)]/text()
